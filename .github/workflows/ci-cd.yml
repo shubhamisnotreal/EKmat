@@ -10,8 +10,8 @@ on:
 
 env:
   DOCKER_HUB_USERNAME: ${{ secrets.DOCKER_HUB_USERNAME }}
-  # Enable Docker Content Trust for signing images
-  DOCKER_CONTENT_TRUST: 1
+  # Temporarily disable explicit signing since keys aren't loaded in GH Actions yet
+  DOCKER_CONTENT_TRUST: 0
 
 jobs:
   build-and-secure:
