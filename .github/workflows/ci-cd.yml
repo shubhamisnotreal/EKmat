@@ -34,17 +34,15 @@ jobs:
       - name: Build Backend Image
         run: docker build -t ${{ secrets.DOCKER_HUB_USERNAME }}/rkmat-backend:latest ./backend
 
-      # Scan Backend with Trivy
-      - name: Run Trivy vulnerability scanner on Backend
-        uses: aquasecurity/trivy-action@master
+      # Scan Backend with Snyk
+      - name: Run Snyk to check Backend Docker image for vulnerabilities
+        uses: snyk/actions/docker@master
+        env:
+          SNYK_TOKEN: ${{ secrets.SNYK_TOKEN }}
         with:
-          image-ref: '${{ secrets.DOCKER_HUB_USERNAME }}/rkmat-backend:latest'
-          format: 'table'
-          exit-code: '0'
-          ignore-unfixed: true
-          vuln-type: 'os'
-          severity: 'CRITICAL,HIGH'
-          scanners: 'vuln'
+          image: ${{ secrets.DOCKER_HUB_USERNAME }}/rkmat-backend:latest
+          args: --file=backend/Dockerfile
+        continue-on-error: true
 
       # Push Backend (Only on main branch)
       - name: Push signed Backend Image
@@ -55,17 +53,15 @@ jobs:
       - name: Build Frontend Image
         run: docker build -t ${{ secrets.DOCKER_HUB_USERNAME }}/rkmat-frontend:latest ./frontend
 
-      # Scan Frontend with Trivy
-      - name: Run Trivy vulnerability scanner on Frontend
-        uses: aquasecurity/trivy-action@master
+      # Scan Frontend with Snyk
+      - name: Run Snyk to check Frontend Docker image for vulnerabilities
+        uses: snyk/actions/docker@master
+        env:
+          SNYK_TOKEN: ${{ secrets.SNYK_TOKEN }}
         with:
-          image-ref: '${{ secrets.DOCKER_HUB_USERNAME }}/rkmat-frontend:latest'
-          format: 'table'
-          exit-code: '0'
-          ignore-unfixed: true
-          vuln-type: 'os'
-          severity: 'CRITICAL,HIGH'
-          scanners: 'vuln'
+          image: ${{ secrets.DOCKER_HUB_USERNAME }}/rkmat-frontend:latest
+          args: --file=frontend/Dockerfile
+        continue-on-error: true
 
       # Push Frontend (Only on main branch)
       - name: Push signed Frontend Image
