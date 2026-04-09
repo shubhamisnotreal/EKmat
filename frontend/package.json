@@ -1,0 +1,35 @@
+{
+    "name": "@ekmat/frontend",
+    "private": true,
+    "version": "0.0.0",
+    "scripts": {
+        "dev": "vite",
+        "build": "tsc && vite build",
+        "preview": "vite preview"
+    },
+    "dependencies": {
+        "ai": "^3.4.0",
+        "d3-geo": "^3.1.1",
+        "ethers": "^6.9.0",
+        "framer-motion": "^12.34.3",
+        "lucide-react": "^0.560.0",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-markdown": "^9.0.1",
+        "react-router-dom": "^7.10.1",
+        "react-simple-maps": "^3.0.0",
+        "recharts": "^3.5.1",
+        "topojson-client": "^3.1.0"
+    },
+    "devDependencies": {
+        "@types/d3-geo": "^3.1.0",
+        "@types/react": "^18.2.43",
+        "@types/react-dom": "^18.2.17",
+        "@types/react-simple-maps": "^3.0.6",
+        "@types/recharts": "^1.8.29",
+        "@types/topojson-client": "^3.1.5",
+        "@vitejs/plugin-react": "^4.2.1",
+        "typescript": "^5.2.2",
+        "vite": "^5.0.8"
+    }
+}

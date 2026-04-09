@@ -1,0 +1,5869 @@
+[
+  {
+    "id": "MH-PUNE-UNDRI-001",
+    "name": "Undri Primary Voting Center",
+    "address": "Undri Road, Pune, Maharashtra",
+    "latitude": 18.4631,
+    "longitude": 73.9165,
+    "state": "Maharashtra",
+    "city": "Pune",
+    "district": "Pune",
+    "pincode": "411060",
+    "status": "active",
+    "totalVotes": 1247,
+    "capacity": 2000,
+    "queueLength": 15,
+    "facilities": [
+      "Wheelchair Access",
+      "Parking",
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "MH-GEN-0002",
+    "name": "Maharashtra Voting Station 1",
+    "address": "Simulated Address, Maharashtra",
+    "latitude": 19.423126680376477,
+    "longitude": 77.66578955101009,
+    "state": "Maharashtra",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 604,
+    "capacity": 2000,
+    "queueLength": 29,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "MH-GEN-0003",
+    "name": "Maharashtra Voting Station 2",
+    "address": "Simulated Address, Maharashtra",
+    "latitude": 20.600782869697507,
+    "longitude": 74.29567329372362,
+    "state": "Maharashtra",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 737,
+    "capacity": 2000,
+    "queueLength": 12,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "MH-GEN-0004",
+    "name": "Maharashtra Voting Station 3",
+    "address": "Simulated Address, Maharashtra",
+    "latitude": 18.961272800418676,
+    "longitude": 74.67014074768684,
+    "state": "Maharashtra",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 329,
+    "capacity": 2000,
+    "queueLength": 16,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "MH-GEN-0005",
+    "name": "Maharashtra Voting Station 4",
+    "address": "Simulated Address, Maharashtra",
+    "latitude": 19.536633885183242,
+    "longitude": 76.07780148018897,
+    "state": "Maharashtra",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1220,
+    "capacity": 2000,
+    "queueLength": 4,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "MH-GEN-0006",
+    "name": "Maharashtra Voting Station 5",
+    "address": "Simulated Address, Maharashtra",
+    "latitude": 19.03370348468244,
+    "longitude": 73.81792836770765,
+    "state": "Maharashtra",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1240,
+    "capacity": 2000,
+    "queueLength": 21,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "MH-GEN-0007",
+    "name": "Maharashtra Voting Station 6",
+    "address": "Simulated Address, Maharashtra",
+    "latitude": 20.100390856955034,
+    "longitude": 75.53859633199285,
+    "state": "Maharashtra",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1422,
+    "capacity": 2000,
+    "queueLength": 7,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "MH-GEN-0008",
+    "name": "Maharashtra Voting Station 7",
+    "address": "Simulated Address, Maharashtra",
+    "latitude": 20.794383914120324,
+    "longitude": 75.01963354514463,
+    "state": "Maharashtra",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1248,
+    "capacity": 2000,
+    "queueLength": 11,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "MH-GEN-0009",
+    "name": "Maharashtra Voting Station 8",
+    "address": "Simulated Address, Maharashtra",
+    "latitude": 20.075493912892686,
+    "longitude": 73.92818615266697,
+    "state": "Maharashtra",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 973,
+    "capacity": 2000,
+    "queueLength": 29,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "MH-GEN-0010",
+    "name": "Maharashtra Voting Station 9",
+    "address": "Simulated Address, Maharashtra",
+    "latitude": 20.911396831336543,
+    "longitude": 77.26821160471036,
+    "state": "Maharashtra",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1124,
+    "capacity": 2000,
+    "queueLength": 21,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "MH-GEN-0011",
+    "name": "Maharashtra Voting Station 10",
+    "address": "Simulated Address, Maharashtra",
+    "latitude": 21.12653578454353,
+    "longitude": 76.81487811024247,
+    "state": "Maharashtra",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 184,
+    "capacity": 2000,
+    "queueLength": 2,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "MH-GEN-0012",
+    "name": "Maharashtra Voting Station 11",
+    "address": "Simulated Address, Maharashtra",
+    "latitude": 17.884614866051304,
+    "longitude": 77.06752855093819,
+    "state": "Maharashtra",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 969,
+    "capacity": 2000,
+    "queueLength": 21,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "MH-GEN-0013",
+    "name": "Maharashtra Voting Station 12",
+    "address": "Simulated Address, Maharashtra",
+    "latitude": 21.649320567433183,
+    "longitude": 77.28799737082672,
+    "state": "Maharashtra",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1401,
+    "capacity": 2000,
+    "queueLength": 44,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "MH-GEN-0014",
+    "name": "Maharashtra Voting Station 13",
+    "address": "Simulated Address, Maharashtra",
+    "latitude": 19.291349958625275,
+    "longitude": 76.7992797234335,
+    "state": "Maharashtra",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 676,
+    "capacity": 2000,
+    "queueLength": 31,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "MH-GEN-0015",
+    "name": "Maharashtra Voting Station 14",
+    "address": "Simulated Address, Maharashtra",
+    "latitude": 19.400577763129675,
+    "longitude": 75.64505172291733,
+    "state": "Maharashtra",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1083,
+    "capacity": 2000,
+    "queueLength": 10,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "MH-GEN-0016",
+    "name": "Maharashtra Voting Station 15",
+    "address": "Simulated Address, Maharashtra",
+    "latitude": 18.59179089332393,
+    "longitude": 77.3315776389683,
+    "state": "Maharashtra",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 638,
+    "capacity": 2000,
+    "queueLength": 3,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "MH-GEN-0017",
+    "name": "Maharashtra Voting Station 16",
+    "address": "Simulated Address, Maharashtra",
+    "latitude": 20.234368617570134,
+    "longitude": 75.49536027788307,
+    "state": "Maharashtra",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 596,
+    "capacity": 2000,
+    "queueLength": 37,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "MH-GEN-0018",
+    "name": "Maharashtra Voting Station 17",
+    "address": "Simulated Address, Maharashtra",
+    "latitude": 20.962664433525408,
+    "longitude": 77.53758392065424,
+    "state": "Maharashtra",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1426,
+    "capacity": 2000,
+    "queueLength": 25,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "MH-GEN-0019",
+    "name": "Maharashtra Voting Station 18",
+    "address": "Simulated Address, Maharashtra",
+    "latitude": 18.279044174403033,
+    "longitude": 74.10359169846406,
+    "state": "Maharashtra",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 146,
+    "capacity": 2000,
+    "queueLength": 15,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "MH-GEN-0020",
+    "name": "Maharashtra Voting Station 19",
+    "address": "Simulated Address, Maharashtra",
+    "latitude": 18.776142483802843,
+    "longitude": 77.09221105311457,
+    "state": "Maharashtra",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1205,
+    "capacity": 2000,
+    "queueLength": 1,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "MH-GEN-0021",
+    "name": "Maharashtra Voting Station 20",
+    "address": "Simulated Address, Maharashtra",
+    "latitude": 19.093058274094332,
+    "longitude": 75.57097003816232,
+    "state": "Maharashtra",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1476,
+    "capacity": 2000,
+    "queueLength": 13,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "MH-GEN-0022",
+    "name": "Maharashtra Voting Station 21",
+    "address": "Simulated Address, Maharashtra",
+    "latitude": 20.536637679169903,
+    "longitude": 77.19536733460774,
+    "state": "Maharashtra",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 686,
+    "capacity": 2000,
+    "queueLength": 23,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "MH-GEN-0023",
+    "name": "Maharashtra Voting Station 22",
+    "address": "Simulated Address, Maharashtra",
+    "latitude": 20.94884371416478,
+    "longitude": 75.82802677484244,
+    "state": "Maharashtra",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1125,
+    "capacity": 2000,
+    "queueLength": 39,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "MH-GEN-0024",
+    "name": "Maharashtra Voting Station 23",
+    "address": "Simulated Address, Maharashtra",
+    "latitude": 20.471239265856006,
+    "longitude": 76.31336859308786,
+    "state": "Maharashtra",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1203,
+    "capacity": 2000,
+    "queueLength": 37,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "MH-GEN-0025",
+    "name": "Maharashtra Voting Station 24",
+    "address": "Simulated Address, Maharashtra",
+    "latitude": 20.141889720495225,
+    "longitude": 76.01972704302628,
+    "state": "Maharashtra",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 838,
+    "capacity": 2000,
+    "queueLength": 4,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "MH-GEN-0026",
+    "name": "Maharashtra Voting Station 25",
+    "address": "Simulated Address, Maharashtra",
+    "latitude": 19.61864454968853,
+    "longitude": 75.29401247041199,
+    "state": "Maharashtra",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1026,
+    "capacity": 2000,
+    "queueLength": 46,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "MH-GEN-0027",
+    "name": "Maharashtra Voting Station 26",
+    "address": "Simulated Address, Maharashtra",
+    "latitude": 18.7348003914202,
+    "longitude": 76.03226145136206,
+    "state": "Maharashtra",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1069,
+    "capacity": 2000,
+    "queueLength": 36,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "MH-GEN-0028",
+    "name": "Maharashtra Voting Station 27",
+    "address": "Simulated Address, Maharashtra",
+    "latitude": 19.553263295581782,
+    "longitude": 74.37264571182463,
+    "state": "Maharashtra",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1160,
+    "capacity": 2000,
+    "queueLength": 22,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "MH-GEN-0029",
+    "name": "Maharashtra Voting Station 28",
+    "address": "Simulated Address, Maharashtra",
+    "latitude": 18.84218868025611,
+    "longitude": 75.17728244118385,
+    "state": "Maharashtra",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 219,
+    "capacity": 2000,
+    "queueLength": 40,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "MH-GEN-0030",
+    "name": "Maharashtra Voting Station 29",
+    "address": "Simulated Address, Maharashtra",
+    "latitude": 19.711950453136556,
+    "longitude": 74.27018517319878,
+    "state": "Maharashtra",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 58,
+    "capacity": 2000,
+    "queueLength": 1,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "UP-GEN-0031",
+    "name": "Uttar Pradesh Voting Station 1",
+    "address": "Simulated Address, Uttar Pradesh",
+    "latitude": 27.05518441752613,
+    "longitude": 82.92190774871398,
+    "state": "Uttar Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1244,
+    "capacity": 2000,
+    "queueLength": 28,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "UP-GEN-0032",
+    "name": "Uttar Pradesh Voting Station 2",
+    "address": "Simulated Address, Uttar Pradesh",
+    "latitude": 28.625695373990023,
+    "longitude": 81.28270157830907,
+    "state": "Uttar Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 348,
+    "capacity": 2000,
+    "queueLength": 38,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "UP-GEN-0033",
+    "name": "Uttar Pradesh Voting Station 3",
+    "address": "Simulated Address, Uttar Pradesh",
+    "latitude": 26.660026614942623,
+    "longitude": 81.6280595410721,
+    "state": "Uttar Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1241,
+    "capacity": 2000,
+    "queueLength": 26,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "UP-GEN-0034",
+    "name": "Uttar Pradesh Voting Station 4",
+    "address": "Simulated Address, Uttar Pradesh",
+    "latitude": 28.252671294300825,
+    "longitude": 80.91033798433523,
+    "state": "Uttar Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 490,
+    "capacity": 2000,
+    "queueLength": 12,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "UP-GEN-0035",
+    "name": "Uttar Pradesh Voting Station 5",
+    "address": "Simulated Address, Uttar Pradesh",
+    "latitude": 25.352885673767254,
+    "longitude": 81.30967271627837,
+    "state": "Uttar Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1432,
+    "capacity": 2000,
+    "queueLength": 38,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "UP-GEN-0036",
+    "name": "Uttar Pradesh Voting Station 6",
+    "address": "Simulated Address, Uttar Pradesh",
+    "latitude": 27.160462016640757,
+    "longitude": 82.23092638633808,
+    "state": "Uttar Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1078,
+    "capacity": 2000,
+    "queueLength": 6,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "UP-GEN-0037",
+    "name": "Uttar Pradesh Voting Station 7",
+    "address": "Simulated Address, Uttar Pradesh",
+    "latitude": 27.508715554882922,
+    "longitude": 82.3705556603536,
+    "state": "Uttar Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 433,
+    "capacity": 2000,
+    "queueLength": 3,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "UP-GEN-0038",
+    "name": "Uttar Pradesh Voting Station 8",
+    "address": "Simulated Address, Uttar Pradesh",
+    "latitude": 24.972342445054633,
+    "longitude": 82.91196641917863,
+    "state": "Uttar Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1425,
+    "capacity": 2000,
+    "queueLength": 22,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "UP-GEN-0039",
+    "name": "Uttar Pradesh Voting Station 9",
+    "address": "Simulated Address, Uttar Pradesh",
+    "latitude": 27.483683483624056,
+    "longitude": 79.17646743959041,
+    "state": "Uttar Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 479,
+    "capacity": 2000,
+    "queueLength": 31,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "UP-GEN-0040",
+    "name": "Uttar Pradesh Voting Station 10",
+    "address": "Simulated Address, Uttar Pradesh",
+    "latitude": 25.74259633315142,
+    "longitude": 79.81072612267015,
+    "state": "Uttar Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1368,
+    "capacity": 2000,
+    "queueLength": 3,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "UP-GEN-0041",
+    "name": "Uttar Pradesh Voting Station 11",
+    "address": "Simulated Address, Uttar Pradesh",
+    "latitude": 26.292446292793443,
+    "longitude": 79.32928825276608,
+    "state": "Uttar Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 977,
+    "capacity": 2000,
+    "queueLength": 49,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "UP-GEN-0042",
+    "name": "Uttar Pradesh Voting Station 12",
+    "address": "Simulated Address, Uttar Pradesh",
+    "latitude": 26.015235268780415,
+    "longitude": 80.60446314595188,
+    "state": "Uttar Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1092,
+    "capacity": 2000,
+    "queueLength": 42,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "UP-GEN-0043",
+    "name": "Uttar Pradesh Voting Station 13",
+    "address": "Simulated Address, Uttar Pradesh",
+    "latitude": 27.82954571777571,
+    "longitude": 81.23369082385528,
+    "state": "Uttar Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 119,
+    "capacity": 2000,
+    "queueLength": 14,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "UP-GEN-0044",
+    "name": "Uttar Pradesh Voting Station 14",
+    "address": "Simulated Address, Uttar Pradesh",
+    "latitude": 25.344105186101825,
+    "longitude": 79.80800085818314,
+    "state": "Uttar Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 209,
+    "capacity": 2000,
+    "queueLength": 26,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "UP-GEN-0045",
+    "name": "Uttar Pradesh Voting Station 15",
+    "address": "Simulated Address, Uttar Pradesh",
+    "latitude": 28.75244567975323,
+    "longitude": 80.60260644097832,
+    "state": "Uttar Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1147,
+    "capacity": 2000,
+    "queueLength": 16,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "UP-GEN-0046",
+    "name": "Uttar Pradesh Voting Station 16",
+    "address": "Simulated Address, Uttar Pradesh",
+    "latitude": 26.075869307412464,
+    "longitude": 80.55225739443881,
+    "state": "Uttar Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1320,
+    "capacity": 2000,
+    "queueLength": 40,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "UP-GEN-0047",
+    "name": "Uttar Pradesh Voting Station 17",
+    "address": "Simulated Address, Uttar Pradesh",
+    "latitude": 25.40745433277493,
+    "longitude": 79.7370176216733,
+    "state": "Uttar Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 962,
+    "capacity": 2000,
+    "queueLength": 31,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "UP-GEN-0048",
+    "name": "Uttar Pradesh Voting Station 18",
+    "address": "Simulated Address, Uttar Pradesh",
+    "latitude": 27.614407683550176,
+    "longitude": 82.88422686861873,
+    "state": "Uttar Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 35,
+    "capacity": 2000,
+    "queueLength": 9,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "UP-GEN-0049",
+    "name": "Uttar Pradesh Voting Station 19",
+    "address": "Simulated Address, Uttar Pradesh",
+    "latitude": 28.572095610543016,
+    "longitude": 81.4140827578945,
+    "state": "Uttar Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 744,
+    "capacity": 2000,
+    "queueLength": 17,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "UP-GEN-0050",
+    "name": "Uttar Pradesh Voting Station 20",
+    "address": "Simulated Address, Uttar Pradesh",
+    "latitude": 27.581506964903017,
+    "longitude": 80.62985561662947,
+    "state": "Uttar Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 934,
+    "capacity": 2000,
+    "queueLength": 30,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "UP-GEN-0051",
+    "name": "Uttar Pradesh Voting Station 21",
+    "address": "Simulated Address, Uttar Pradesh",
+    "latitude": 27.318124395682872,
+    "longitude": 78.96496116428443,
+    "state": "Uttar Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1498,
+    "capacity": 2000,
+    "queueLength": 45,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "UP-GEN-0052",
+    "name": "Uttar Pradesh Voting Station 22",
+    "address": "Simulated Address, Uttar Pradesh",
+    "latitude": 27.11884360995303,
+    "longitude": 82.75871600359594,
+    "state": "Uttar Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 998,
+    "capacity": 2000,
+    "queueLength": 9,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "UP-GEN-0053",
+    "name": "Uttar Pradesh Voting Station 23",
+    "address": "Simulated Address, Uttar Pradesh",
+    "latitude": 27.770394676199064,
+    "longitude": 81.81671832471334,
+    "state": "Uttar Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1179,
+    "capacity": 2000,
+    "queueLength": 44,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "UP-GEN-0054",
+    "name": "Uttar Pradesh Voting Station 24",
+    "address": "Simulated Address, Uttar Pradesh",
+    "latitude": 25.520358378946387,
+    "longitude": 79.94080122466042,
+    "state": "Uttar Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 208,
+    "capacity": 2000,
+    "queueLength": 47,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "UP-GEN-0055",
+    "name": "Uttar Pradesh Voting Station 25",
+    "address": "Simulated Address, Uttar Pradesh",
+    "latitude": 27.963289576270768,
+    "longitude": 82.27558714078671,
+    "state": "Uttar Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 684,
+    "capacity": 2000,
+    "queueLength": 49,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "KA-GEN-0056",
+    "name": "Karnataka Voting Station 1",
+    "address": "Simulated Address, Karnataka",
+    "latitude": 13.360177928037288,
+    "longitude": 76.40694385926133,
+    "state": "Karnataka",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 204,
+    "capacity": 2000,
+    "queueLength": 29,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "KA-GEN-0057",
+    "name": "Karnataka Voting Station 2",
+    "address": "Simulated Address, Karnataka",
+    "latitude": 14.568640814375362,
+    "longitude": 76.92290680784252,
+    "state": "Karnataka",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 188,
+    "capacity": 2000,
+    "queueLength": 6,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "KA-GEN-0058",
+    "name": "Karnataka Voting Station 3",
+    "address": "Simulated Address, Karnataka",
+    "latitude": 14.836116651683572,
+    "longitude": 77.25448295945397,
+    "state": "Karnataka",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 27,
+    "capacity": 2000,
+    "queueLength": 25,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "KA-GEN-0059",
+    "name": "Karnataka Voting Station 4",
+    "address": "Simulated Address, Karnataka",
+    "latitude": 16.500932045768415,
+    "longitude": 76.5456332232641,
+    "state": "Karnataka",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 606,
+    "capacity": 2000,
+    "queueLength": 4,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "KA-GEN-0060",
+    "name": "Karnataka Voting Station 5",
+    "address": "Simulated Address, Karnataka",
+    "latitude": 14.35493398910183,
+    "longitude": 75.59220027517547,
+    "state": "Karnataka",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 151,
+    "capacity": 2000,
+    "queueLength": 19,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "KA-GEN-0061",
+    "name": "Karnataka Voting Station 6",
+    "address": "Simulated Address, Karnataka",
+    "latitude": 17.165284574760072,
+    "longitude": 76.18678563040388,
+    "state": "Karnataka",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 731,
+    "capacity": 2000,
+    "queueLength": 42,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "KA-GEN-0062",
+    "name": "Karnataka Voting Station 7",
+    "address": "Simulated Address, Karnataka",
+    "latitude": 15.17712362892297,
+    "longitude": 76.55897804565335,
+    "state": "Karnataka",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1107,
+    "capacity": 2000,
+    "queueLength": 48,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "KA-GEN-0063",
+    "name": "Karnataka Voting Station 8",
+    "address": "Simulated Address, Karnataka",
+    "latitude": 16.170223843244788,
+    "longitude": 76.65300071367814,
+    "state": "Karnataka",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 192,
+    "capacity": 2000,
+    "queueLength": 37,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "KA-GEN-0064",
+    "name": "Karnataka Voting Station 9",
+    "address": "Simulated Address, Karnataka",
+    "latitude": 16.230482327739427,
+    "longitude": 75.58947720726675,
+    "state": "Karnataka",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1157,
+    "capacity": 2000,
+    "queueLength": 38,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "KA-GEN-0065",
+    "name": "Karnataka Voting Station 10",
+    "address": "Simulated Address, Karnataka",
+    "latitude": 13.5323659755155,
+    "longitude": 76.1191144716889,
+    "state": "Karnataka",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 142,
+    "capacity": 2000,
+    "queueLength": 13,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "KA-GEN-0066",
+    "name": "Karnataka Voting Station 11",
+    "address": "Simulated Address, Karnataka",
+    "latitude": 14.0662428844333,
+    "longitude": 74.4923565341781,
+    "state": "Karnataka",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 720,
+    "capacity": 2000,
+    "queueLength": 7,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "KA-GEN-0067",
+    "name": "Karnataka Voting Station 12",
+    "address": "Simulated Address, Karnataka",
+    "latitude": 16.664429602727168,
+    "longitude": 75.5309440286279,
+    "state": "Karnataka",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 148,
+    "capacity": 2000,
+    "queueLength": 13,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "KA-GEN-0068",
+    "name": "Karnataka Voting Station 13",
+    "address": "Simulated Address, Karnataka",
+    "latitude": 13.973382848037424,
+    "longitude": 75.52109714987823,
+    "state": "Karnataka",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1030,
+    "capacity": 2000,
+    "queueLength": 35,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "KA-GEN-0069",
+    "name": "Karnataka Voting Station 14",
+    "address": "Simulated Address, Karnataka",
+    "latitude": 16.476970746348755,
+    "longitude": 73.8828641294032,
+    "state": "Karnataka",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1234,
+    "capacity": 2000,
+    "queueLength": 12,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "KA-GEN-0070",
+    "name": "Karnataka Voting Station 15",
+    "address": "Simulated Address, Karnataka",
+    "latitude": 14.63095286089272,
+    "longitude": 75.62849515953276,
+    "state": "Karnataka",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 499,
+    "capacity": 2000,
+    "queueLength": 5,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "KA-GEN-0071",
+    "name": "Karnataka Voting Station 16",
+    "address": "Simulated Address, Karnataka",
+    "latitude": 15.273812067312205,
+    "longitude": 76.76796744717961,
+    "state": "Karnataka",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 942,
+    "capacity": 2000,
+    "queueLength": 37,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "KA-GEN-0072",
+    "name": "Karnataka Voting Station 17",
+    "address": "Simulated Address, Karnataka",
+    "latitude": 15.526785494681542,
+    "longitude": 75.73023873073669,
+    "state": "Karnataka",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1207,
+    "capacity": 2000,
+    "queueLength": 9,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "KA-GEN-0073",
+    "name": "Karnataka Voting Station 18",
+    "address": "Simulated Address, Karnataka",
+    "latitude": 16.448296303203723,
+    "longitude": 77.19702769871647,
+    "state": "Karnataka",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 850,
+    "capacity": 2000,
+    "queueLength": 32,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "KA-GEN-0074",
+    "name": "Karnataka Voting Station 19",
+    "address": "Simulated Address, Karnataka",
+    "latitude": 13.548787382180349,
+    "longitude": 77.28599982784102,
+    "state": "Karnataka",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 235,
+    "capacity": 2000,
+    "queueLength": 28,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "KA-GEN-0075",
+    "name": "Karnataka Voting Station 20",
+    "address": "Simulated Address, Karnataka",
+    "latitude": 13.597686284460648,
+    "longitude": 76.57125378924003,
+    "state": "Karnataka",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1016,
+    "capacity": 2000,
+    "queueLength": 32,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "GJ-GEN-0076",
+    "name": "Gujarat Voting Station 1",
+    "address": "Simulated Address, Gujarat",
+    "latitude": 23.607650302912912,
+    "longitude": 70.04621855176103,
+    "state": "Gujarat",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1450,
+    "capacity": 2000,
+    "queueLength": 19,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "GJ-GEN-0077",
+    "name": "Gujarat Voting Station 2",
+    "address": "Simulated Address, Gujarat",
+    "latitude": 23.223880962534306,
+    "longitude": 70.941469079625,
+    "state": "Gujarat",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 189,
+    "capacity": 2000,
+    "queueLength": 44,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "GJ-GEN-0078",
+    "name": "Gujarat Voting Station 3",
+    "address": "Simulated Address, Gujarat",
+    "latitude": 24.24153635515539,
+    "longitude": 70.82002234029234,
+    "state": "Gujarat",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1082,
+    "capacity": 2000,
+    "queueLength": 9,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "GJ-GEN-0079",
+    "name": "Gujarat Voting Station 4",
+    "address": "Simulated Address, Gujarat",
+    "latitude": 23.61505250738493,
+    "longitude": 70.56621252762736,
+    "state": "Gujarat",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1154,
+    "capacity": 2000,
+    "queueLength": 2,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "GJ-GEN-0080",
+    "name": "Gujarat Voting Station 5",
+    "address": "Simulated Address, Gujarat",
+    "latitude": 20.532392063094445,
+    "longitude": 71.37761765738672,
+    "state": "Gujarat",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 123,
+    "capacity": 2000,
+    "queueLength": 21,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "GJ-GEN-0081",
+    "name": "Gujarat Voting Station 6",
+    "address": "Simulated Address, Gujarat",
+    "latitude": 22.73777872105863,
+    "longitude": 69.34251118612835,
+    "state": "Gujarat",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 285,
+    "capacity": 2000,
+    "queueLength": 23,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "GJ-GEN-0082",
+    "name": "Gujarat Voting Station 7",
+    "address": "Simulated Address, Gujarat",
+    "latitude": 22.80057736881748,
+    "longitude": 71.60613053962338,
+    "state": "Gujarat",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 721,
+    "capacity": 2000,
+    "queueLength": 23,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "GJ-GEN-0083",
+    "name": "Gujarat Voting Station 8",
+    "address": "Simulated Address, Gujarat",
+    "latitude": 22.99858660480164,
+    "longitude": 69.92168808999314,
+    "state": "Gujarat",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 103,
+    "capacity": 2000,
+    "queueLength": 30,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "GJ-GEN-0084",
+    "name": "Gujarat Voting Station 9",
+    "address": "Simulated Address, Gujarat",
+    "latitude": 22.46642839583618,
+    "longitude": 72.81652164175462,
+    "state": "Gujarat",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1195,
+    "capacity": 2000,
+    "queueLength": 28,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "GJ-GEN-0085",
+    "name": "Gujarat Voting Station 10",
+    "address": "Simulated Address, Gujarat",
+    "latitude": 23.963126623482168,
+    "longitude": 72.12654343164047,
+    "state": "Gujarat",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 529,
+    "capacity": 2000,
+    "queueLength": 4,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "GJ-GEN-0086",
+    "name": "Gujarat Voting Station 11",
+    "address": "Simulated Address, Gujarat",
+    "latitude": 21.165289727922925,
+    "longitude": 70.21399615799054,
+    "state": "Gujarat",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 77,
+    "capacity": 2000,
+    "queueLength": 44,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "GJ-GEN-0087",
+    "name": "Gujarat Voting Station 12",
+    "address": "Simulated Address, Gujarat",
+    "latitude": 23.892512905455032,
+    "longitude": 69.69692240851019,
+    "state": "Gujarat",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 923,
+    "capacity": 2000,
+    "queueLength": 49,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "GJ-GEN-0088",
+    "name": "Gujarat Voting Station 13",
+    "address": "Simulated Address, Gujarat",
+    "latitude": 21.568540774968,
+    "longitude": 73.17187946269372,
+    "state": "Gujarat",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 194,
+    "capacity": 2000,
+    "queueLength": 43,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "GJ-GEN-0089",
+    "name": "Gujarat Voting Station 14",
+    "address": "Simulated Address, Gujarat",
+    "latitude": 23.32956526591169,
+    "longitude": 69.89544928374389,
+    "state": "Gujarat",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 584,
+    "capacity": 2000,
+    "queueLength": 28,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "GJ-GEN-0090",
+    "name": "Gujarat Voting Station 15",
+    "address": "Simulated Address, Gujarat",
+    "latitude": 23.416519377821096,
+    "longitude": 71.82243632915382,
+    "state": "Gujarat",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 12,
+    "capacity": 2000,
+    "queueLength": 44,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "RJ-GEN-0091",
+    "name": "Rajasthan Voting Station 1",
+    "address": "Simulated Address, Rajasthan",
+    "latitude": 26.842975521116735,
+    "longitude": 73.5847259391096,
+    "state": "Rajasthan",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 330,
+    "capacity": 2000,
+    "queueLength": 0,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "RJ-GEN-0092",
+    "name": "Rajasthan Voting Station 2",
+    "address": "Simulated Address, Rajasthan",
+    "latitude": 25.78655016458381,
+    "longitude": 72.97810336246958,
+    "state": "Rajasthan",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 251,
+    "capacity": 2000,
+    "queueLength": 13,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "RJ-GEN-0093",
+    "name": "Rajasthan Voting Station 3",
+    "address": "Simulated Address, Rajasthan",
+    "latitude": 27.922849670353568,
+    "longitude": 75.00843176977166,
+    "state": "Rajasthan",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 586,
+    "capacity": 2000,
+    "queueLength": 8,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "RJ-GEN-0094",
+    "name": "Rajasthan Voting Station 4",
+    "address": "Simulated Address, Rajasthan",
+    "latitude": 27.05277586247049,
+    "longitude": 75.79590401989743,
+    "state": "Rajasthan",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1387,
+    "capacity": 2000,
+    "queueLength": 13,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "RJ-GEN-0095",
+    "name": "Rajasthan Voting Station 5",
+    "address": "Simulated Address, Rajasthan",
+    "latitude": 28.810767445851962,
+    "longitude": 73.19662473345053,
+    "state": "Rajasthan",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1126,
+    "capacity": 2000,
+    "queueLength": 2,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "RJ-GEN-0096",
+    "name": "Rajasthan Voting Station 6",
+    "address": "Simulated Address, Rajasthan",
+    "latitude": 28.53560657531872,
+    "longitude": 74.90136656368767,
+    "state": "Rajasthan",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 559,
+    "capacity": 2000,
+    "queueLength": 17,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "RJ-GEN-0097",
+    "name": "Rajasthan Voting Station 7",
+    "address": "Simulated Address, Rajasthan",
+    "latitude": 25.908178549273224,
+    "longitude": 72.84019980328547,
+    "state": "Rajasthan",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 830,
+    "capacity": 2000,
+    "queueLength": 35,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "RJ-GEN-0098",
+    "name": "Rajasthan Voting Station 8",
+    "address": "Simulated Address, Rajasthan",
+    "latitude": 27.906892796263243,
+    "longitude": 75.24077289757435,
+    "state": "Rajasthan",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1115,
+    "capacity": 2000,
+    "queueLength": 21,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "RJ-GEN-0099",
+    "name": "Rajasthan Voting Station 9",
+    "address": "Simulated Address, Rajasthan",
+    "latitude": 28.537774757410546,
+    "longitude": 72.58749295177462,
+    "state": "Rajasthan",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 20,
+    "capacity": 2000,
+    "queueLength": 49,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "RJ-GEN-0100",
+    "name": "Rajasthan Voting Station 10",
+    "address": "Simulated Address, Rajasthan",
+    "latitude": 28.53671709753493,
+    "longitude": 72.5108220427372,
+    "state": "Rajasthan",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 751,
+    "capacity": 2000,
+    "queueLength": 19,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "RJ-GEN-0101",
+    "name": "Rajasthan Voting Station 11",
+    "address": "Simulated Address, Rajasthan",
+    "latitude": 27.120977214325347,
+    "longitude": 73.92789696643293,
+    "state": "Rajasthan",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 734,
+    "capacity": 2000,
+    "queueLength": 29,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "RJ-GEN-0102",
+    "name": "Rajasthan Voting Station 12",
+    "address": "Simulated Address, Rajasthan",
+    "latitude": 26.344916320972956,
+    "longitude": 75.2966587249275,
+    "state": "Rajasthan",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1147,
+    "capacity": 2000,
+    "queueLength": 23,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "RJ-GEN-0103",
+    "name": "Rajasthan Voting Station 13",
+    "address": "Simulated Address, Rajasthan",
+    "latitude": 26.611354393364053,
+    "longitude": 75.53909406837968,
+    "state": "Rajasthan",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1296,
+    "capacity": 2000,
+    "queueLength": 47,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "RJ-GEN-0104",
+    "name": "Rajasthan Voting Station 14",
+    "address": "Simulated Address, Rajasthan",
+    "latitude": 25.619319568782295,
+    "longitude": 74.45194186522433,
+    "state": "Rajasthan",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 746,
+    "capacity": 2000,
+    "queueLength": 12,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "RJ-GEN-0105",
+    "name": "Rajasthan Voting Station 15",
+    "address": "Simulated Address, Rajasthan",
+    "latitude": 25.39521672768848,
+    "longitude": 75.84612854891589,
+    "state": "Rajasthan",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 571,
+    "capacity": 2000,
+    "queueLength": 34,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "MP-GEN-0106",
+    "name": "Madhya Pradesh Voting Station 1",
+    "address": "Simulated Address, Madhya Pradesh",
+    "latitude": 24.73643583955629,
+    "longitude": 76.80559513178922,
+    "state": "Madhya Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 873,
+    "capacity": 2000,
+    "queueLength": 13,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "MP-GEN-0107",
+    "name": "Madhya Pradesh Voting Station 2",
+    "address": "Simulated Address, Madhya Pradesh",
+    "latitude": 22.924198836641157,
+    "longitude": 78.34215186235863,
+    "state": "Madhya Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 42,
+    "capacity": 2000,
+    "queueLength": 6,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "MP-GEN-0108",
+    "name": "Madhya Pradesh Voting Station 3",
+    "address": "Simulated Address, Madhya Pradesh",
+    "latitude": 24.844161784583196,
+    "longitude": 79.52555586375719,
+    "state": "Madhya Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1451,
+    "capacity": 2000,
+    "queueLength": 1,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "MP-GEN-0109",
+    "name": "Madhya Pradesh Voting Station 4",
+    "address": "Simulated Address, Madhya Pradesh",
+    "latitude": 24.458416408318772,
+    "longitude": 78.09447893673956,
+    "state": "Madhya Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1391,
+    "capacity": 2000,
+    "queueLength": 38,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "MP-GEN-0110",
+    "name": "Madhya Pradesh Voting Station 5",
+    "address": "Simulated Address, Madhya Pradesh",
+    "latitude": 23.785602261552352,
+    "longitude": 77.88548535343196,
+    "state": "Madhya Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 905,
+    "capacity": 2000,
+    "queueLength": 21,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "MP-GEN-0111",
+    "name": "Madhya Pradesh Voting Station 6",
+    "address": "Simulated Address, Madhya Pradesh",
+    "latitude": 24.63154214924994,
+    "longitude": 77.32803289146909,
+    "state": "Madhya Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 399,
+    "capacity": 2000,
+    "queueLength": 12,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "MP-GEN-0112",
+    "name": "Madhya Pradesh Voting Station 7",
+    "address": "Simulated Address, Madhya Pradesh",
+    "latitude": 23.94393896424161,
+    "longitude": 80.1499482532734,
+    "state": "Madhya Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 314,
+    "capacity": 2000,
+    "queueLength": 25,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "MP-GEN-0113",
+    "name": "Madhya Pradesh Voting Station 8",
+    "address": "Simulated Address, Madhya Pradesh",
+    "latitude": 23.185611713963738,
+    "longitude": 80.57946305895226,
+    "state": "Madhya Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 723,
+    "capacity": 2000,
+    "queueLength": 46,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "MP-GEN-0114",
+    "name": "Madhya Pradesh Voting Station 9",
+    "address": "Simulated Address, Madhya Pradesh",
+    "latitude": 22.89370041564258,
+    "longitude": 78.13320432290034,
+    "state": "Madhya Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 262,
+    "capacity": 2000,
+    "queueLength": 18,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "MP-GEN-0115",
+    "name": "Madhya Pradesh Voting Station 10",
+    "address": "Simulated Address, Madhya Pradesh",
+    "latitude": 22.555107042081804,
+    "longitude": 77.89262943714793,
+    "state": "Madhya Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 783,
+    "capacity": 2000,
+    "queueLength": 37,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "MP-GEN-0116",
+    "name": "Madhya Pradesh Voting Station 11",
+    "address": "Simulated Address, Madhya Pradesh",
+    "latitude": 24.835677836844894,
+    "longitude": 79.81412942187659,
+    "state": "Madhya Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 253,
+    "capacity": 2000,
+    "queueLength": 40,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "MP-GEN-0117",
+    "name": "Madhya Pradesh Voting Station 12",
+    "address": "Simulated Address, Madhya Pradesh",
+    "latitude": 21.68829943567932,
+    "longitude": 77.34694621932015,
+    "state": "Madhya Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 441,
+    "capacity": 2000,
+    "queueLength": 40,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "MP-GEN-0118",
+    "name": "Madhya Pradesh Voting Station 13",
+    "address": "Simulated Address, Madhya Pradesh",
+    "latitude": 24.46200419835518,
+    "longitude": 79.20288888039998,
+    "state": "Madhya Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 784,
+    "capacity": 2000,
+    "queueLength": 30,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "MP-GEN-0119",
+    "name": "Madhya Pradesh Voting Station 14",
+    "address": "Simulated Address, Madhya Pradesh",
+    "latitude": 23.456957474782172,
+    "longitude": 79.20113600687581,
+    "state": "Madhya Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 98,
+    "capacity": 2000,
+    "queueLength": 34,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "MP-GEN-0120",
+    "name": "Madhya Pradesh Voting Station 15",
+    "address": "Simulated Address, Madhya Pradesh",
+    "latitude": 22.91971994401818,
+    "longitude": 77.06300541825696,
+    "state": "Madhya Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 868,
+    "capacity": 2000,
+    "queueLength": 17,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "TN-GEN-0121",
+    "name": "Tamil Nadu Voting Station 1",
+    "address": "Simulated Address, Tamil Nadu",
+    "latitude": 9.882106785679293,
+    "longitude": 78.85657598729196,
+    "state": "Tamil Nadu",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 399,
+    "capacity": 2000,
+    "queueLength": 20,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "TN-GEN-0122",
+    "name": "Tamil Nadu Voting Station 2",
+    "address": "Simulated Address, Tamil Nadu",
+    "latitude": 10.669551048241818,
+    "longitude": 80.06518553387342,
+    "state": "Tamil Nadu",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 315,
+    "capacity": 2000,
+    "queueLength": 26,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "TN-GEN-0123",
+    "name": "Tamil Nadu Voting Station 3",
+    "address": "Simulated Address, Tamil Nadu",
+    "latitude": 12.064900911021407,
+    "longitude": 77.10002103050331,
+    "state": "Tamil Nadu",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1193,
+    "capacity": 2000,
+    "queueLength": 46,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "TN-GEN-0124",
+    "name": "Tamil Nadu Voting Station 4",
+    "address": "Simulated Address, Tamil Nadu",
+    "latitude": 10.619430781726148,
+    "longitude": 77.62874970646115,
+    "state": "Tamil Nadu",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 61,
+    "capacity": 2000,
+    "queueLength": 46,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "TN-GEN-0125",
+    "name": "Tamil Nadu Voting Station 5",
+    "address": "Simulated Address, Tamil Nadu",
+    "latitude": 12.44289790180589,
+    "longitude": 78.49000093860329,
+    "state": "Tamil Nadu",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 458,
+    "capacity": 2000,
+    "queueLength": 30,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "TN-GEN-0126",
+    "name": "Tamil Nadu Voting Station 6",
+    "address": "Simulated Address, Tamil Nadu",
+    "latitude": 12.492561357277669,
+    "longitude": 80.35960521681541,
+    "state": "Tamil Nadu",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1482,
+    "capacity": 2000,
+    "queueLength": 7,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "TN-GEN-0127",
+    "name": "Tamil Nadu Voting Station 7",
+    "address": "Simulated Address, Tamil Nadu",
+    "latitude": 10.702502588714687,
+    "longitude": 78.63807694752896,
+    "state": "Tamil Nadu",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1057,
+    "capacity": 2000,
+    "queueLength": 18,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "TN-GEN-0128",
+    "name": "Tamil Nadu Voting Station 8",
+    "address": "Simulated Address, Tamil Nadu",
+    "latitude": 11.758000025928467,
+    "longitude": 78.25023256099713,
+    "state": "Tamil Nadu",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 110,
+    "capacity": 2000,
+    "queueLength": 45,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "TN-GEN-0129",
+    "name": "Tamil Nadu Voting Station 9",
+    "address": "Simulated Address, Tamil Nadu",
+    "latitude": 11.754617852599251,
+    "longitude": 78.98984145442265,
+    "state": "Tamil Nadu",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1330,
+    "capacity": 2000,
+    "queueLength": 26,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "TN-GEN-0130",
+    "name": "Tamil Nadu Voting Station 10",
+    "address": "Simulated Address, Tamil Nadu",
+    "latitude": 10.88425479879153,
+    "longitude": 80.06339028476457,
+    "state": "Tamil Nadu",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 898,
+    "capacity": 2000,
+    "queueLength": 44,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "TN-GEN-0131",
+    "name": "Tamil Nadu Voting Station 11",
+    "address": "Simulated Address, Tamil Nadu",
+    "latitude": 10.147554520494163,
+    "longitude": 77.71934321101413,
+    "state": "Tamil Nadu",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 96,
+    "capacity": 2000,
+    "queueLength": 36,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "TN-GEN-0132",
+    "name": "Tamil Nadu Voting Station 12",
+    "address": "Simulated Address, Tamil Nadu",
+    "latitude": 13.034651450004835,
+    "longitude": 78.36224666611173,
+    "state": "Tamil Nadu",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1204,
+    "capacity": 2000,
+    "queueLength": 21,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "TN-GEN-0133",
+    "name": "Tamil Nadu Voting Station 13",
+    "address": "Simulated Address, Tamil Nadu",
+    "latitude": 12.27390834541265,
+    "longitude": 80.33201096030028,
+    "state": "Tamil Nadu",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 86,
+    "capacity": 2000,
+    "queueLength": 46,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "TN-GEN-0134",
+    "name": "Tamil Nadu Voting Station 14",
+    "address": "Simulated Address, Tamil Nadu",
+    "latitude": 9.882937351183744,
+    "longitude": 78.32584374132179,
+    "state": "Tamil Nadu",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 700,
+    "capacity": 2000,
+    "queueLength": 38,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "TN-GEN-0135",
+    "name": "Tamil Nadu Voting Station 15",
+    "address": "Simulated Address, Tamil Nadu",
+    "latitude": 11.96399452568702,
+    "longitude": 80.0383132964587,
+    "state": "Tamil Nadu",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1199,
+    "capacity": 2000,
+    "queueLength": 42,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "WB-GEN-0136",
+    "name": "West Bengal Voting Station 1",
+    "address": "Simulated Address, West Bengal",
+    "latitude": 23.818159210416606,
+    "longitude": 88.43054473188036,
+    "state": "West Bengal",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 958,
+    "capacity": 2000,
+    "queueLength": 33,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "WB-GEN-0137",
+    "name": "West Bengal Voting Station 2",
+    "address": "Simulated Address, West Bengal",
+    "latitude": 24.54281879078283,
+    "longitude": 86.41298884359843,
+    "state": "West Bengal",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1307,
+    "capacity": 2000,
+    "queueLength": 45,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "WB-GEN-0138",
+    "name": "West Bengal Voting Station 3",
+    "address": "Simulated Address, West Bengal",
+    "latitude": 23.303485023838984,
+    "longitude": 89.45197179624854,
+    "state": "West Bengal",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 723,
+    "capacity": 2000,
+    "queueLength": 27,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "WB-GEN-0139",
+    "name": "West Bengal Voting Station 4",
+    "address": "Simulated Address, West Bengal",
+    "latitude": 24.857015430804655,
+    "longitude": 88.09883590192172,
+    "state": "West Bengal",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 937,
+    "capacity": 2000,
+    "queueLength": 49,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "WB-GEN-0140",
+    "name": "West Bengal Voting Station 5",
+    "address": "Simulated Address, West Bengal",
+    "latitude": 21.164050542278755,
+    "longitude": 86.8377188452319,
+    "state": "West Bengal",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 396,
+    "capacity": 2000,
+    "queueLength": 21,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "WB-GEN-0141",
+    "name": "West Bengal Voting Station 6",
+    "address": "Simulated Address, West Bengal",
+    "latitude": 23.69213490478941,
+    "longitude": 88.7253629775865,
+    "state": "West Bengal",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 301,
+    "capacity": 2000,
+    "queueLength": 14,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "WB-GEN-0142",
+    "name": "West Bengal Voting Station 7",
+    "address": "Simulated Address, West Bengal",
+    "latitude": 24.045030744653285,
+    "longitude": 89.06866037066558,
+    "state": "West Bengal",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 534,
+    "capacity": 2000,
+    "queueLength": 15,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "WB-GEN-0143",
+    "name": "West Bengal Voting Station 8",
+    "address": "Simulated Address, West Bengal",
+    "latitude": 22.12515728728959,
+    "longitude": 88.39309296036942,
+    "state": "West Bengal",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 773,
+    "capacity": 2000,
+    "queueLength": 41,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "WB-GEN-0144",
+    "name": "West Bengal Voting Station 9",
+    "address": "Simulated Address, West Bengal",
+    "latitude": 24.653915086589244,
+    "longitude": 87.04063005902849,
+    "state": "West Bengal",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1294,
+    "capacity": 2000,
+    "queueLength": 18,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "WB-GEN-0145",
+    "name": "West Bengal Voting Station 10",
+    "address": "Simulated Address, West Bengal",
+    "latitude": 23.95537607363006,
+    "longitude": 86.20616622857116,
+    "state": "West Bengal",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 124,
+    "capacity": 2000,
+    "queueLength": 35,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "WB-GEN-0146",
+    "name": "West Bengal Voting Station 11",
+    "address": "Simulated Address, West Bengal",
+    "latitude": 23.43852200597431,
+    "longitude": 88.85652518068902,
+    "state": "West Bengal",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1180,
+    "capacity": 2000,
+    "queueLength": 32,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "WB-GEN-0147",
+    "name": "West Bengal Voting Station 12",
+    "address": "Simulated Address, West Bengal",
+    "latitude": 22.0127543304527,
+    "longitude": 89.2606459618387,
+    "state": "West Bengal",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1084,
+    "capacity": 2000,
+    "queueLength": 38,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "WB-GEN-0148",
+    "name": "West Bengal Voting Station 13",
+    "address": "Simulated Address, West Bengal",
+    "latitude": 22.587449402184276,
+    "longitude": 89.60099995983617,
+    "state": "West Bengal",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 553,
+    "capacity": 2000,
+    "queueLength": 40,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "WB-GEN-0149",
+    "name": "West Bengal Voting Station 14",
+    "address": "Simulated Address, West Bengal",
+    "latitude": 22.577822452493628,
+    "longitude": 86.24894553869166,
+    "state": "West Bengal",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1080,
+    "capacity": 2000,
+    "queueLength": 22,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "WB-GEN-0150",
+    "name": "West Bengal Voting Station 15",
+    "address": "Simulated Address, West Bengal",
+    "latitude": 21.449138369373024,
+    "longitude": 87.10147528247037,
+    "state": "West Bengal",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 323,
+    "capacity": 2000,
+    "queueLength": 45,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "BR-GEN-0151",
+    "name": "Bihar Voting Station 1",
+    "address": "Simulated Address, Bihar",
+    "latitude": 26.47297111924502,
+    "longitude": 86.17523708874263,
+    "state": "Bihar",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 819,
+    "capacity": 2000,
+    "queueLength": 40,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "BR-GEN-0152",
+    "name": "Bihar Voting Station 2",
+    "address": "Simulated Address, Bihar",
+    "latitude": 23.42878418921881,
+    "longitude": 85.34837705659281,
+    "state": "Bihar",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 198,
+    "capacity": 2000,
+    "queueLength": 47,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "BR-GEN-0153",
+    "name": "Bihar Voting Station 3",
+    "address": "Simulated Address, Bihar",
+    "latitude": 25.595893669108438,
+    "longitude": 83.63068379835582,
+    "state": "Bihar",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 820,
+    "capacity": 2000,
+    "queueLength": 14,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "BR-GEN-0154",
+    "name": "Bihar Voting Station 4",
+    "address": "Simulated Address, Bihar",
+    "latitude": 25.443096460494186,
+    "longitude": 85.87658918790534,
+    "state": "Bihar",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 509,
+    "capacity": 2000,
+    "queueLength": 9,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "BR-GEN-0155",
+    "name": "Bihar Voting Station 5",
+    "address": "Simulated Address, Bihar",
+    "latitude": 23.550012964777505,
+    "longitude": 86.35508166550585,
+    "state": "Bihar",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1125,
+    "capacity": 2000,
+    "queueLength": 35,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "BR-GEN-0156",
+    "name": "Bihar Voting Station 6",
+    "address": "Simulated Address, Bihar",
+    "latitude": 26.864021697683505,
+    "longitude": 86.08625614996174,
+    "state": "Bihar",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 914,
+    "capacity": 2000,
+    "queueLength": 22,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "BR-GEN-0157",
+    "name": "Bihar Voting Station 7",
+    "address": "Simulated Address, Bihar",
+    "latitude": 26.55433011904631,
+    "longitude": 84.11949438763374,
+    "state": "Bihar",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 714,
+    "capacity": 2000,
+    "queueLength": 24,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "BR-GEN-0158",
+    "name": "Bihar Voting Station 8",
+    "address": "Simulated Address, Bihar",
+    "latitude": 25.16078893309753,
+    "longitude": 85.09406034871891,
+    "state": "Bihar",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1347,
+    "capacity": 2000,
+    "queueLength": 9,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "BR-GEN-0159",
+    "name": "Bihar Voting Station 9",
+    "address": "Simulated Address, Bihar",
+    "latitude": 23.672460674498872,
+    "longitude": 84.34446698728755,
+    "state": "Bihar",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 156,
+    "capacity": 2000,
+    "queueLength": 8,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "BR-GEN-0160",
+    "name": "Bihar Voting Station 10",
+    "address": "Simulated Address, Bihar",
+    "latitude": 24.060272865544015,
+    "longitude": 83.62075772772741,
+    "state": "Bihar",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 339,
+    "capacity": 2000,
+    "queueLength": 37,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "BR-GEN-0161",
+    "name": "Bihar Voting Station 11",
+    "address": "Simulated Address, Bihar",
+    "latitude": 26.122948449122404,
+    "longitude": 85.70945844523091,
+    "state": "Bihar",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 754,
+    "capacity": 2000,
+    "queueLength": 13,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "BR-GEN-0162",
+    "name": "Bihar Voting Station 12",
+    "address": "Simulated Address, Bihar",
+    "latitude": 23.147023980036963,
+    "longitude": 85.48081389405371,
+    "state": "Bihar",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1284,
+    "capacity": 2000,
+    "queueLength": 16,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "BR-GEN-0163",
+    "name": "Bihar Voting Station 13",
+    "address": "Simulated Address, Bihar",
+    "latitude": 23.60579345982548,
+    "longitude": 85.31880342604151,
+    "state": "Bihar",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 604,
+    "capacity": 2000,
+    "queueLength": 20,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "BR-GEN-0164",
+    "name": "Bihar Voting Station 14",
+    "address": "Simulated Address, Bihar",
+    "latitude": 26.031050700411818,
+    "longitude": 84.409906813231,
+    "state": "Bihar",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1063,
+    "capacity": 2000,
+    "queueLength": 30,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "BR-GEN-0165",
+    "name": "Bihar Voting Station 15",
+    "address": "Simulated Address, Bihar",
+    "latitude": 24.99495584794636,
+    "longitude": 86.27906258609707,
+    "state": "Bihar",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 343,
+    "capacity": 2000,
+    "queueLength": 24,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "AP-GEN-0166",
+    "name": "Andhra Pradesh Voting Station 1",
+    "address": "Simulated Address, Andhra Pradesh",
+    "latitude": 14.465251186787796,
+    "longitude": 78.91048029074473,
+    "state": "Andhra Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1217,
+    "capacity": 2000,
+    "queueLength": 7,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "AP-GEN-0167",
+    "name": "Andhra Pradesh Voting Station 2",
+    "address": "Simulated Address, Andhra Pradesh",
+    "latitude": 17.911127635639218,
+    "longitude": 81.34245286754754,
+    "state": "Andhra Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 331,
+    "capacity": 2000,
+    "queueLength": 42,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "AP-GEN-0168",
+    "name": "Andhra Pradesh Voting Station 3",
+    "address": "Simulated Address, Andhra Pradesh",
+    "latitude": 17.448808248161765,
+    "longitude": 78.98256347668382,
+    "state": "Andhra Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1307,
+    "capacity": 2000,
+    "queueLength": 16,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "AP-GEN-0169",
+    "name": "Andhra Pradesh Voting Station 4",
+    "address": "Simulated Address, Andhra Pradesh",
+    "latitude": 15.831093312995565,
+    "longitude": 80.65091183607694,
+    "state": "Andhra Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 630,
+    "capacity": 2000,
+    "queueLength": 33,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "AP-GEN-0170",
+    "name": "Andhra Pradesh Voting Station 5",
+    "address": "Simulated Address, Andhra Pradesh",
+    "latitude": 16.140652825314948,
+    "longitude": 79.02511211766166,
+    "state": "Andhra Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 46,
+    "capacity": 2000,
+    "queueLength": 6,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "AP-GEN-0171",
+    "name": "Andhra Pradesh Voting Station 6",
+    "address": "Simulated Address, Andhra Pradesh",
+    "latitude": 17.173276437639966,
+    "longitude": 78.30763259322521,
+    "state": "Andhra Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 729,
+    "capacity": 2000,
+    "queueLength": 16,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "AP-GEN-0172",
+    "name": "Andhra Pradesh Voting Station 7",
+    "address": "Simulated Address, Andhra Pradesh",
+    "latitude": 16.8788765163549,
+    "longitude": 79.5102911355923,
+    "state": "Andhra Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 858,
+    "capacity": 2000,
+    "queueLength": 21,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "AP-GEN-0173",
+    "name": "Andhra Pradesh Voting Station 8",
+    "address": "Simulated Address, Andhra Pradesh",
+    "latitude": 14.956321148714359,
+    "longitude": 79.12339207640098,
+    "state": "Andhra Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 363,
+    "capacity": 2000,
+    "queueLength": 21,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "AP-GEN-0174",
+    "name": "Andhra Pradesh Voting Station 9",
+    "address": "Simulated Address, Andhra Pradesh",
+    "latitude": 15.14781197627591,
+    "longitude": 78.33159708978133,
+    "state": "Andhra Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 906,
+    "capacity": 2000,
+    "queueLength": 22,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "AP-GEN-0175",
+    "name": "Andhra Pradesh Voting Station 10",
+    "address": "Simulated Address, Andhra Pradesh",
+    "latitude": 14.156027297491772,
+    "longitude": 80.96678122267753,
+    "state": "Andhra Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 243,
+    "capacity": 2000,
+    "queueLength": 34,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "AP-GEN-0176",
+    "name": "Andhra Pradesh Voting Station 11",
+    "address": "Simulated Address, Andhra Pradesh",
+    "latitude": 14.881121494910229,
+    "longitude": 80.35064012791402,
+    "state": "Andhra Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 680,
+    "capacity": 2000,
+    "queueLength": 24,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "AP-GEN-0177",
+    "name": "Andhra Pradesh Voting Station 12",
+    "address": "Simulated Address, Andhra Pradesh",
+    "latitude": 17.039645105169647,
+    "longitude": 80.89023254883209,
+    "state": "Andhra Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1479,
+    "capacity": 2000,
+    "queueLength": 41,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "AP-GEN-0178",
+    "name": "Andhra Pradesh Voting Station 13",
+    "address": "Simulated Address, Andhra Pradesh",
+    "latitude": 15.952699945484126,
+    "longitude": 79.49010058794023,
+    "state": "Andhra Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 174,
+    "capacity": 2000,
+    "queueLength": 16,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "AP-GEN-0179",
+    "name": "Andhra Pradesh Voting Station 14",
+    "address": "Simulated Address, Andhra Pradesh",
+    "latitude": 17.192605343581526,
+    "longitude": 78.51884993509847,
+    "state": "Andhra Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 336,
+    "capacity": 2000,
+    "queueLength": 9,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "AP-GEN-0180",
+    "name": "Andhra Pradesh Voting Station 15",
+    "address": "Simulated Address, Andhra Pradesh",
+    "latitude": 15.240657536790637,
+    "longitude": 81.39677668940477,
+    "state": "Andhra Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 708,
+    "capacity": 2000,
+    "queueLength": 16,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "TS-GEN-0181",
+    "name": "Telangana Voting Station 1",
+    "address": "Simulated Address, Telangana",
+    "latitude": 17.67731628118298,
+    "longitude": 78.33775778895803,
+    "state": "Telangana",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1098,
+    "capacity": 2000,
+    "queueLength": 41,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "TS-GEN-0182",
+    "name": "Telangana Voting Station 2",
+    "address": "Simulated Address, Telangana",
+    "latitude": 16.118962918331846,
+    "longitude": 77.06570380740294,
+    "state": "Telangana",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1016,
+    "capacity": 2000,
+    "queueLength": 13,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "TS-GEN-0183",
+    "name": "Telangana Voting Station 3",
+    "address": "Simulated Address, Telangana",
+    "latitude": 18.468353450717434,
+    "longitude": 79.09591406110081,
+    "state": "Telangana",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 68,
+    "capacity": 2000,
+    "queueLength": 40,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "TS-GEN-0184",
+    "name": "Telangana Voting Station 4",
+    "address": "Simulated Address, Telangana",
+    "latitude": 18.51119148694929,
+    "longitude": 80.07460671218709,
+    "state": "Telangana",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1117,
+    "capacity": 2000,
+    "queueLength": 7,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "TS-GEN-0185",
+    "name": "Telangana Voting Station 5",
+    "address": "Simulated Address, Telangana",
+    "latitude": 17.404641947051136,
+    "longitude": 77.10956405927071,
+    "state": "Telangana",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 519,
+    "capacity": 2000,
+    "queueLength": 34,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "TS-GEN-0186",
+    "name": "Telangana Voting Station 6",
+    "address": "Simulated Address, Telangana",
+    "latitude": 19.253844268500938,
+    "longitude": 77.82700458726812,
+    "state": "Telangana",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 647,
+    "capacity": 2000,
+    "queueLength": 14,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "TS-GEN-0187",
+    "name": "Telangana Voting Station 7",
+    "address": "Simulated Address, Telangana",
+    "latitude": 16.95261571593874,
+    "longitude": 78.71691613642692,
+    "state": "Telangana",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 571,
+    "capacity": 2000,
+    "queueLength": 44,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "TS-GEN-0188",
+    "name": "Telangana Voting Station 8",
+    "address": "Simulated Address, Telangana",
+    "latitude": 16.430586083098195,
+    "longitude": 79.2906896712951,
+    "state": "Telangana",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1043,
+    "capacity": 2000,
+    "queueLength": 5,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "TS-GEN-0189",
+    "name": "Telangana Voting Station 9",
+    "address": "Simulated Address, Telangana",
+    "latitude": 17.06801532222926,
+    "longitude": 79.5186017771651,
+    "state": "Telangana",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1305,
+    "capacity": 2000,
+    "queueLength": 35,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "TS-GEN-0190",
+    "name": "Telangana Voting Station 10",
+    "address": "Simulated Address, Telangana",
+    "latitude": 16.222822341071318,
+    "longitude": 77.63858014367271,
+    "state": "Telangana",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1079,
+    "capacity": 2000,
+    "queueLength": 45,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "TS-GEN-0191",
+    "name": "Telangana Voting Station 11",
+    "address": "Simulated Address, Telangana",
+    "latitude": 19.289953466634742,
+    "longitude": 79.88373642637474,
+    "state": "Telangana",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1454,
+    "capacity": 2000,
+    "queueLength": 43,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "TS-GEN-0192",
+    "name": "Telangana Voting Station 12",
+    "address": "Simulated Address, Telangana",
+    "latitude": 16.666830969756184,
+    "longitude": 77.09253454458421,
+    "state": "Telangana",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 203,
+    "capacity": 2000,
+    "queueLength": 1,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "TS-GEN-0193",
+    "name": "Telangana Voting Station 13",
+    "address": "Simulated Address, Telangana",
+    "latitude": 16.330780520590935,
+    "longitude": 79.94755733982996,
+    "state": "Telangana",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 552,
+    "capacity": 2000,
+    "queueLength": 2,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "TS-GEN-0194",
+    "name": "Telangana Voting Station 14",
+    "address": "Simulated Address, Telangana",
+    "latitude": 16.320386858142548,
+    "longitude": 79.10041932319271,
+    "state": "Telangana",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 769,
+    "capacity": 2000,
+    "queueLength": 32,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "TS-GEN-0195",
+    "name": "Telangana Voting Station 15",
+    "address": "Simulated Address, Telangana",
+    "latitude": 16.29414322695464,
+    "longitude": 78.05543706870174,
+    "state": "Telangana",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 597,
+    "capacity": 2000,
+    "queueLength": 42,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "KL-GEN-0196",
+    "name": "Kerala Voting Station 1",
+    "address": "Simulated Address, Kerala",
+    "latitude": 9.539175195289213,
+    "longitude": 75.52528836910085,
+    "state": "Kerala",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1290,
+    "capacity": 2000,
+    "queueLength": 2,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "KL-GEN-0197",
+    "name": "Kerala Voting Station 2",
+    "address": "Simulated Address, Kerala",
+    "latitude": 12.097804962809093,
+    "longitude": 76.36340530495939,
+    "state": "Kerala",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 229,
+    "capacity": 2000,
+    "queueLength": 16,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "KL-GEN-0198",
+    "name": "Kerala Voting Station 3",
+    "address": "Simulated Address, Kerala",
+    "latitude": 12.546416468801642,
+    "longitude": 77.39137573198671,
+    "state": "Kerala",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1220,
+    "capacity": 2000,
+    "queueLength": 26,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "KL-GEN-0199",
+    "name": "Kerala Voting Station 4",
+    "address": "Simulated Address, Kerala",
+    "latitude": 10.87929326027773,
+    "longitude": 77.97684470333255,
+    "state": "Kerala",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 557,
+    "capacity": 2000,
+    "queueLength": 25,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "KL-GEN-0200",
+    "name": "Kerala Voting Station 5",
+    "address": "Simulated Address, Kerala",
+    "latitude": 12.616277671006126,
+    "longitude": 77.39974052449904,
+    "state": "Kerala",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1054,
+    "capacity": 2000,
+    "queueLength": 26,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "KL-GEN-0201",
+    "name": "Kerala Voting Station 6",
+    "address": "Simulated Address, Kerala",
+    "latitude": 10.830254115477358,
+    "longitude": 75.5574772732666,
+    "state": "Kerala",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 721,
+    "capacity": 2000,
+    "queueLength": 49,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "KL-GEN-0202",
+    "name": "Kerala Voting Station 7",
+    "address": "Simulated Address, Kerala",
+    "latitude": 10.081443576885794,
+    "longitude": 77.81942568860961,
+    "state": "Kerala",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 652,
+    "capacity": 2000,
+    "queueLength": 1,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "KL-GEN-0203",
+    "name": "Kerala Voting Station 8",
+    "address": "Simulated Address, Kerala",
+    "latitude": 12.240766771809062,
+    "longitude": 77.8243113044017,
+    "state": "Kerala",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 757,
+    "capacity": 2000,
+    "queueLength": 9,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "KL-GEN-0204",
+    "name": "Kerala Voting Station 9",
+    "address": "Simulated Address, Kerala",
+    "latitude": 12.210673451709676,
+    "longitude": 74.37101311703435,
+    "state": "Kerala",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 338,
+    "capacity": 2000,
+    "queueLength": 10,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "KL-GEN-0205",
+    "name": "Kerala Voting Station 10",
+    "address": "Simulated Address, Kerala",
+    "latitude": 10.187099042754763,
+    "longitude": 78.22598053495203,
+    "state": "Kerala",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1076,
+    "capacity": 2000,
+    "queueLength": 24,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "OR-GEN-0206",
+    "name": "Odisha Voting Station 1",
+    "address": "Simulated Address, Odisha",
+    "latitude": 22.012356100269574,
+    "longitude": 86.42544979870162,
+    "state": "Odisha",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 887,
+    "capacity": 2000,
+    "queueLength": 45,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "OR-GEN-0207",
+    "name": "Odisha Voting Station 2",
+    "address": "Simulated Address, Odisha",
+    "latitude": 19.156782171088008,
+    "longitude": 83.6624504479564,
+    "state": "Odisha",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 994,
+    "capacity": 2000,
+    "queueLength": 41,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "OR-GEN-0208",
+    "name": "Odisha Voting Station 3",
+    "address": "Simulated Address, Odisha",
+    "latitude": 19.185011867882707,
+    "longitude": 84.57586574057098,
+    "state": "Odisha",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1398,
+    "capacity": 2000,
+    "queueLength": 16,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "OR-GEN-0209",
+    "name": "Odisha Voting Station 4",
+    "address": "Simulated Address, Odisha",
+    "latitude": 19.761252450317183,
+    "longitude": 84.14135914910369,
+    "state": "Odisha",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 68,
+    "capacity": 2000,
+    "queueLength": 0,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "OR-GEN-0210",
+    "name": "Odisha Voting Station 5",
+    "address": "Simulated Address, Odisha",
+    "latitude": 19.281580227318635,
+    "longitude": 83.35358728054966,
+    "state": "Odisha",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 411,
+    "capacity": 2000,
+    "queueLength": 15,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "OR-GEN-0211",
+    "name": "Odisha Voting Station 6",
+    "address": "Simulated Address, Odisha",
+    "latitude": 21.883477333383574,
+    "longitude": 84.3648038484592,
+    "state": "Odisha",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1348,
+    "capacity": 2000,
+    "queueLength": 12,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "OR-GEN-0212",
+    "name": "Odisha Voting Station 7",
+    "address": "Simulated Address, Odisha",
+    "latitude": 22.594516158273585,
+    "longitude": 85.63361355299452,
+    "state": "Odisha",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 654,
+    "capacity": 2000,
+    "queueLength": 21,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "OR-GEN-0213",
+    "name": "Odisha Voting Station 8",
+    "address": "Simulated Address, Odisha",
+    "latitude": 20.43148323226892,
+    "longitude": 86.7161966824793,
+    "state": "Odisha",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 470,
+    "capacity": 2000,
+    "queueLength": 5,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "OR-GEN-0214",
+    "name": "Odisha Voting Station 9",
+    "address": "Simulated Address, Odisha",
+    "latitude": 20.38290150035554,
+    "longitude": 84.59620121532464,
+    "state": "Odisha",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 448,
+    "capacity": 2000,
+    "queueLength": 41,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "OR-GEN-0215",
+    "name": "Odisha Voting Station 10",
+    "address": "Simulated Address, Odisha",
+    "latitude": 20.53419282228002,
+    "longitude": 85.62610175234609,
+    "state": "Odisha",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1334,
+    "capacity": 2000,
+    "queueLength": 43,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "PB-GEN-0216",
+    "name": "Punjab Voting Station 1",
+    "address": "Simulated Address, Punjab",
+    "latitude": 32.859869423704325,
+    "longitude": 73.52142881954154,
+    "state": "Punjab",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1154,
+    "capacity": 2000,
+    "queueLength": 30,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "PB-GEN-0217",
+    "name": "Punjab Voting Station 2",
+    "address": "Simulated Address, Punjab",
+    "latitude": 32.664018050323044,
+    "longitude": 75.76011903949647,
+    "state": "Punjab",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 934,
+    "capacity": 2000,
+    "queueLength": 11,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "PB-GEN-0218",
+    "name": "Punjab Voting Station 3",
+    "address": "Simulated Address, Punjab",
+    "latitude": 30.455140125366913,
+    "longitude": 75.72549686449672,
+    "state": "Punjab",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1413,
+    "capacity": 2000,
+    "queueLength": 18,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "PB-GEN-0219",
+    "name": "Punjab Voting Station 4",
+    "address": "Simulated Address, Punjab",
+    "latitude": 29.45195998924014,
+    "longitude": 74.55329240114943,
+    "state": "Punjab",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 690,
+    "capacity": 2000,
+    "queueLength": 47,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "PB-GEN-0220",
+    "name": "Punjab Voting Station 5",
+    "address": "Simulated Address, Punjab",
+    "latitude": 29.41112977214749,
+    "longitude": 74.3482589277991,
+    "state": "Punjab",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1390,
+    "capacity": 2000,
+    "queueLength": 11,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "PB-GEN-0221",
+    "name": "Punjab Voting Station 6",
+    "address": "Simulated Address, Punjab",
+    "latitude": 32.541083865358516,
+    "longitude": 74.01426604103011,
+    "state": "Punjab",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 687,
+    "capacity": 2000,
+    "queueLength": 49,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "PB-GEN-0222",
+    "name": "Punjab Voting Station 7",
+    "address": "Simulated Address, Punjab",
+    "latitude": 30.604810660611,
+    "longitude": 76.28876560432874,
+    "state": "Punjab",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 69,
+    "capacity": 2000,
+    "queueLength": 8,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "PB-GEN-0223",
+    "name": "Punjab Voting Station 8",
+    "address": "Simulated Address, Punjab",
+    "latitude": 30.394699332319806,
+    "longitude": 74.57449790397435,
+    "state": "Punjab",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 352,
+    "capacity": 2000,
+    "queueLength": 39,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "PB-GEN-0224",
+    "name": "Punjab Voting Station 9",
+    "address": "Simulated Address, Punjab",
+    "latitude": 30.151842484328757,
+    "longitude": 76.39912011771258,
+    "state": "Punjab",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1352,
+    "capacity": 2000,
+    "queueLength": 38,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "PB-GEN-0225",
+    "name": "Punjab Voting Station 10",
+    "address": "Simulated Address, Punjab",
+    "latitude": 32.86085169882119,
+    "longitude": 76.48342187271135,
+    "state": "Punjab",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 35,
+    "capacity": 2000,
+    "queueLength": 1,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "HR-GEN-0226",
+    "name": "Haryana Voting Station 1",
+    "address": "Simulated Address, Haryana",
+    "latitude": 27.210969741384417,
+    "longitude": 76.30794126623377,
+    "state": "Haryana",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 244,
+    "capacity": 2000,
+    "queueLength": 36,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "HR-GEN-0227",
+    "name": "Haryana Voting Station 2",
+    "address": "Simulated Address, Haryana",
+    "latitude": 30.416514306868493,
+    "longitude": 76.91960385555805,
+    "state": "Haryana",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 622,
+    "capacity": 2000,
+    "queueLength": 48,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "HR-GEN-0228",
+    "name": "Haryana Voting Station 3",
+    "address": "Simulated Address, Haryana",
+    "latitude": 28.556989354999473,
+    "longitude": 76.93913187044878,
+    "state": "Haryana",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1491,
+    "capacity": 2000,
+    "queueLength": 29,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "HR-GEN-0229",
+    "name": "Haryana Voting Station 4",
+    "address": "Simulated Address, Haryana",
+    "latitude": 29.458780996323558,
+    "longitude": 74.09106076243108,
+    "state": "Haryana",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1460,
+    "capacity": 2000,
+    "queueLength": 15,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "HR-GEN-0230",
+    "name": "Haryana Voting Station 5",
+    "address": "Simulated Address, Haryana",
+    "latitude": 30.294282440239794,
+    "longitude": 74.19180047137263,
+    "state": "Haryana",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1105,
+    "capacity": 2000,
+    "queueLength": 10,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "HR-GEN-0231",
+    "name": "Haryana Voting Station 6",
+    "address": "Simulated Address, Haryana",
+    "latitude": 30.231209662014468,
+    "longitude": 77.34755819691968,
+    "state": "Haryana",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1306,
+    "capacity": 2000,
+    "queueLength": 23,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "HR-GEN-0232",
+    "name": "Haryana Voting Station 7",
+    "address": "Simulated Address, Haryana",
+    "latitude": 28.09260436466181,
+    "longitude": 74.35871953067351,
+    "state": "Haryana",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 621,
+    "capacity": 2000,
+    "queueLength": 14,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "HR-GEN-0233",
+    "name": "Haryana Voting Station 8",
+    "address": "Simulated Address, Haryana",
+    "latitude": 27.91245347025862,
+    "longitude": 76.59957126891142,
+    "state": "Haryana",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1053,
+    "capacity": 2000,
+    "queueLength": 6,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "HR-GEN-0234",
+    "name": "Haryana Voting Station 9",
+    "address": "Simulated Address, Haryana",
+    "latitude": 30.59659194302247,
+    "longitude": 76.96458181640341,
+    "state": "Haryana",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1012,
+    "capacity": 2000,
+    "queueLength": 7,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "HR-GEN-0235",
+    "name": "Haryana Voting Station 10",
+    "address": "Simulated Address, Haryana",
+    "latitude": 28.659009199198945,
+    "longitude": 74.3657028815857,
+    "state": "Haryana",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1403,
+    "capacity": 2000,
+    "queueLength": 49,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "DL-GEN-0236",
+    "name": "Delhi Voting Station 1",
+    "address": "Simulated Address, Delhi",
+    "latitude": 28.70509018821628,
+    "longitude": 77.22619584146764,
+    "state": "Delhi",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 904,
+    "capacity": 2000,
+    "queueLength": 12,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "DL-GEN-0237",
+    "name": "Delhi Voting Station 2",
+    "address": "Simulated Address, Delhi",
+    "latitude": 28.874368208516984,
+    "longitude": 75.68993235414707,
+    "state": "Delhi",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 504,
+    "capacity": 2000,
+    "queueLength": 15,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "DL-GEN-0238",
+    "name": "Delhi Voting Station 3",
+    "address": "Simulated Address, Delhi",
+    "latitude": 27.48284003143769,
+    "longitude": 75.54131821054983,
+    "state": "Delhi",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1054,
+    "capacity": 2000,
+    "queueLength": 11,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "DL-GEN-0239",
+    "name": "Delhi Voting Station 4",
+    "address": "Simulated Address, Delhi",
+    "latitude": 29.205164376201953,
+    "longitude": 77.94675123516171,
+    "state": "Delhi",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1335,
+    "capacity": 2000,
+    "queueLength": 44,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "DL-GEN-0240",
+    "name": "Delhi Voting Station 5",
+    "address": "Simulated Address, Delhi",
+    "latitude": 27.81631278025992,
+    "longitude": 76.17173193871709,
+    "state": "Delhi",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 322,
+    "capacity": 2000,
+    "queueLength": 41,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "UT-GEN-0241",
+    "name": "Uttarakhand Voting Station 1",
+    "address": "Simulated Address, Uttarakhand",
+    "latitude": 29.078138065989403,
+    "longitude": 77.58710276933307,
+    "state": "Uttarakhand",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 227,
+    "capacity": 2000,
+    "queueLength": 39,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "UT-GEN-0242",
+    "name": "Uttarakhand Voting Station 2",
+    "address": "Simulated Address, Uttarakhand",
+    "latitude": 30.94447144900732,
+    "longitude": 77.95118880999749,
+    "state": "Uttarakhand",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1394,
+    "capacity": 2000,
+    "queueLength": 32,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "UT-GEN-0243",
+    "name": "Uttarakhand Voting Station 3",
+    "address": "Simulated Address, Uttarakhand",
+    "latitude": 30.17818475324484,
+    "longitude": 79.67527082311256,
+    "state": "Uttarakhand",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1054,
+    "capacity": 2000,
+    "queueLength": 8,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "UT-GEN-0244",
+    "name": "Uttarakhand Voting Station 4",
+    "address": "Simulated Address, Uttarakhand",
+    "latitude": 29.39079549360953,
+    "longitude": 77.63016052512512,
+    "state": "Uttarakhand",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 363,
+    "capacity": 2000,
+    "queueLength": 25,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "UT-GEN-0245",
+    "name": "Uttarakhand Voting Station 5",
+    "address": "Simulated Address, Uttarakhand",
+    "latitude": 31.05192983778941,
+    "longitude": 77.9123273154609,
+    "state": "Uttarakhand",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 684,
+    "capacity": 2000,
+    "queueLength": 43,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "HP-GEN-0246",
+    "name": "Himachal Pradesh Voting Station 1",
+    "address": "Simulated Address, Himachal Pradesh",
+    "latitude": 31.42330492464071,
+    "longitude": 75.71001891038199,
+    "state": "Himachal Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 514,
+    "capacity": 2000,
+    "queueLength": 10,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "HP-GEN-0247",
+    "name": "Himachal Pradesh Voting Station 2",
+    "address": "Simulated Address, Himachal Pradesh",
+    "latitude": 31.900338817019364,
+    "longitude": 77.938607389454,
+    "state": "Himachal Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 30,
+    "capacity": 2000,
+    "queueLength": 44,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "HP-GEN-0248",
+    "name": "Himachal Pradesh Voting Station 3",
+    "address": "Simulated Address, Himachal Pradesh",
+    "latitude": 32.50199019853062,
+    "longitude": 76.5888650712916,
+    "state": "Himachal Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 157,
+    "capacity": 2000,
+    "queueLength": 9,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "HP-GEN-0249",
+    "name": "Himachal Pradesh Voting Station 4",
+    "address": "Simulated Address, Himachal Pradesh",
+    "latitude": 30.885425472782885,
+    "longitude": 77.49875257098984,
+    "state": "Himachal Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1203,
+    "capacity": 2000,
+    "queueLength": 23,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "HP-GEN-0250",
+    "name": "Himachal Pradesh Voting Station 5",
+    "address": "Simulated Address, Himachal Pradesh",
+    "latitude": 29.63484197244767,
+    "longitude": 75.80986003748367,
+    "state": "Himachal Pradesh",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1024,
+    "capacity": 2000,
+    "queueLength": 18,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "AS-GEN-0251",
+    "name": "Assam Voting Station 1",
+    "address": "Simulated Address, Assam",
+    "latitude": 26.30701692497315,
+    "longitude": 92.95600226417658,
+    "state": "Assam",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1488,
+    "capacity": 2000,
+    "queueLength": 15,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "AS-GEN-0252",
+    "name": "Assam Voting Station 2",
+    "address": "Simulated Address, Assam",
+    "latitude": 24.340607842165646,
+    "longitude": 93.01163839241134,
+    "state": "Assam",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 1144,
+    "capacity": 2000,
+    "queueLength": 28,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "AS-GEN-0253",
+    "name": "Assam Voting Station 3",
+    "address": "Simulated Address, Assam",
+    "latitude": 24.240108020799287,
+    "longitude": 94.38295889645464,
+    "state": "Assam",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 704,
+    "capacity": 2000,
+    "queueLength": 12,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "AS-GEN-0254",
+    "name": "Assam Voting Station 4",
+    "address": "Simulated Address, Assam",
+    "latitude": 27.32545814420377,
+    "longitude": 92.99823150326623,
+    "state": "Assam",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 857,
+    "capacity": 2000,
+    "queueLength": 34,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  },
+  {
+    "id": "AS-GEN-0255",
+    "name": "Assam Voting Station 5",
+    "address": "Simulated Address, Assam",
+    "latitude": 26.793604475112073,
+    "longitude": 93.40757286585938,
+    "state": "Assam",
+    "city": "Unknown",
+    "district": "Unknown",
+    "pincode": "000000",
+    "status": "active",
+    "totalVotes": 595,
+    "capacity": 2000,
+    "queueLength": 14,
+    "facilities": [
+      "Water"
+    ],
+    "accessibility": true,
+    "timings": {
+      "open": "07:00",
+      "close": "18:00"
+    }
+  }
+]

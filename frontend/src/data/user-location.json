@@ -1,0 +1,17 @@
+{
+  "userId": "user123",
+  "assignedBoothId": "MH-PUNE-UNDRI-001",
+  "booth": {
+    "id": "MH-PUNE-UNDRI-001",
+    "name": "Undri Primary Voting Center",
+    "latitude": 18.4631,
+    "longitude": 73.9165,
+    "state": "Maharashtra",
+    "city": "Pune",
+    "district": "Pune",
+    "address": "Undri Road, Pune, Maharashtra 411060"
+  },
+  "distance": 0.8,
+  "distanceUnit": "km",
+  "verified": true
+}
