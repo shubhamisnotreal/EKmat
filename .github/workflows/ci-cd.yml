@@ -44,6 +44,18 @@ jobs:
           args: --file=backend/Dockerfile
         continue-on-error: true
 
+      # Scan Backend with Trivy (OS only)
+      - name: Run Trivy to check Backend OS vulnerabilities
+        uses: aquasecurity/trivy-action@master
+        with:
+          image-ref: '${{ secrets.DOCKER_HUB_USERNAME }}/rkmat-backend:latest'
+          format: 'table'
+          exit-code: '0'
+          ignore-unfixed: true
+          vuln-type: 'os'
+          severity: 'CRITICAL,HIGH'
+          scanners: 'vuln'
+
       # Push Backend (Only on main branch)
       - name: Push signed Backend Image
         if: github.ref == 'refs/heads/main'
@@ -62,6 +74,18 @@ jobs:
           image: ${{ secrets.DOCKER_HUB_USERNAME }}/rkmat-frontend:latest
           args: --file=frontend/Dockerfile
         continue-on-error: true
+
+      # Scan Frontend with Trivy (OS only)
+      - name: Run Trivy to check Frontend OS vulnerabilities
+        uses: aquasecurity/trivy-action@master
+        with:
+          image-ref: '${{ secrets.DOCKER_HUB_USERNAME }}/rkmat-frontend:latest'
+          format: 'table'
+          exit-code: '0'
+          ignore-unfixed: true
+          vuln-type: 'os'
+          severity: 'CRITICAL,HIGH'
+          scanners: 'vuln'
 
       # Push Frontend (Only on main branch)
       - name: Push signed Frontend Image
